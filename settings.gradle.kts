@@ -13,6 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Lecture 001"
+rootProject.name = "Lecture 2 aceelerometer"
 include(":app")
- 
